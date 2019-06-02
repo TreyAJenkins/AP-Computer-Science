@@ -51,7 +51,7 @@ public class Main {
                     MixedResults.main();
                     break;
                 }
-                case 4: {
+                case 5: {
                     // Compute This
                     System.out.println(ComputeThis.identity);
                     ComputeThis.main();
