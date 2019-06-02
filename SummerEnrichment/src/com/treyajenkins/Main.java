@@ -14,6 +14,7 @@ public class Main {
             System.out.println("Select a lesson:");
             System.out.println("1 ) " + HelloWorld.identity);
             System.out.println("2 ) " + NameThatCelebrity.identity);
+            System.out.println("3 ) " + ArithmeticAssignment.identity);
 
 
             System.out.print("0 ) Exit\n\n[#]> ");
@@ -36,7 +37,12 @@ public class Main {
                     NameThatCelebrity.main();
                     break;
                 }
-
+                case 3: {
+                    // Arithmetic Assignment
+                    System.out.println(ArithmeticAssignment.identity);
+                    ArithmeticAssignment.main();
+                    break;
+                }
                 default: {
                     System.out.println("Invalid option");
                 }
