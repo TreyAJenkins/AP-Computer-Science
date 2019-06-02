@@ -15,7 +15,7 @@ public class Main {
             System.out.println("1 ) " + HelloWorld.identity);
             System.out.println("2 ) " + NameThatCelebrity.identity);
             System.out.println("3 ) " + ArithmeticAssignment.identity);
-            System.out.println("3 ) " + MixedResults.identity);
+            System.out.println("4 ) " + MixedResults.identity);
 
 
             System.out.print("0 ) Exit\n\n[#]> ");
