@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7d6072a-54e5-4b9a-8a2d-6f31c664fde7" name="Default Changelist" comment="Finished Hello World">
+    <list default="true" id="e7d6072a-54e5-4b9a-8a2d-6f31c664fde7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="162">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -29,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="166" lean-forward="true" selection-start-line="6" selection-start-column="166" selection-end-line="6" selection-end-column="166" />
+            <state relative-caret-position="45">
+              <caret line="3" column="82" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -38,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -61,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/treyajenkins/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java" />
       </list>
     </option>
   </component>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559443602699</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created NameThatCelebrity">
+      <created>1559443839864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559443839864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -198,27 +208,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added modular design support" />
     <MESSAGE value="Finished Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Hello World" />
+    <MESSAGE value="Created NameThatCelebrity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created NameThatCelebrity" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="45">
+          <caret line="3" column="82" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="166" lean-forward="true" selection-start-line="6" selection-start-column="166" selection-end-line="6" selection-end-column="166" />
+        <state relative-caret-position="162">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>

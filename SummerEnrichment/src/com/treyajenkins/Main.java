@@ -13,6 +13,8 @@ public class Main {
 
             System.out.println("Select a lesson:");
             System.out.println("1 ) " + HelloWorld.identity);
+            System.out.println("2 ) " + NameThatCelebrity.identity);
+
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -26,6 +28,12 @@ public class Main {
                     // Hello World
                     System.out.println(HelloWorld.identity + "\n");
                     HelloWorld.main();
+                    break;
+                }
+                case 2: {
+                    // Name That Celebrity
+                    System.out.println(NameThatCelebrity.identity);
+                    NameThatCelebrity.main();
                     break;
                 }
 
