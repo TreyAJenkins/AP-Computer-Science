@@ -19,6 +19,7 @@ public class Main {
             System.out.println("5 ) " + ComputeThis.identity);
             System.out.println("6 ) " + GoingInCircles.identity);
             System.out.println("7 ) " + WhatsMyName.identity);
+            System.out.println("8 ) " + EvenOrOdd.identity);
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -68,6 +69,12 @@ public class Main {
                     // What's My Name?
                     System.out.println(WhatsMyName.identity);
                     WhatsMyName.main();
+                    break;
+                }
+                case 8: {
+                    // Even or Odd?
+                    System.out.println(EvenOrOdd.identity);
+                    EvenOrOdd.main();
                     break;
                 }
                 default: {
