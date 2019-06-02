@@ -15,6 +15,7 @@ public class Main {
             System.out.println("1 ) " + HelloWorld.identity);
             System.out.println("2 ) " + NameThatCelebrity.identity);
             System.out.println("3 ) " + ArithmeticAssignment.identity);
+            System.out.println("3 ) " + MixedResults.identity);
 
 
             System.out.print("0 ) Exit\n\n[#]> ");
@@ -41,6 +42,12 @@ public class Main {
                     // Arithmetic Assignment
                     System.out.println(ArithmeticAssignment.identity);
                     ArithmeticAssignment.main();
+                    break;
+                }
+                case 4: {
+                    // Mixed Results
+                    System.out.println(MixedResults.identity);
+                    MixedResults.main();
                     break;
                 }
                 default: {
