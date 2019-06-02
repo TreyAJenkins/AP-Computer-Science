@@ -20,6 +20,7 @@ public class Main {
             System.out.println("6 ) " + GoingInCircles.identity);
             System.out.println("7 ) " + WhatsMyName.identity);
             System.out.println("8 ) " + EvenOrOdd.identity);
+            System.out.println("9 ) " + Planets.identity);
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -75,6 +76,12 @@ public class Main {
                     // Even or Odd?
                     System.out.println(EvenOrOdd.identity);
                     EvenOrOdd.main();
+                    break;
+                }
+                case 9: {
+                    // Weight on Other Planets
+                    System.out.println(Planets.identity);
+                    Planets.main();
                     break;
                 }
                 default: {
