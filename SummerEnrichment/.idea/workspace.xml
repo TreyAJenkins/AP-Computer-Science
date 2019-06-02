@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7d6072a-54e5-4b9a-8a2d-6f31c664fde7" name="Default Changelist" comment="Finished ArithmeticAssignment">
-      <change afterPath="$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java" afterDir="false" />
+    <list default="true" id="e7d6072a-54e5-4b9a-8a2d-6f31c664fde7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" afterDir="false" />
     </list>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            <state relative-caret-position="319">
+              <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -38,10 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java">
+        <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
+              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -65,13 +65,14 @@
         <option value="$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/ArithmeticAssignment.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java" />
+        <option value="$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="40" />
+    <option name="x" value="90" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -194,11 +195,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559445082382</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created MixedResults">
+      <created>1559445911663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559445911663</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished MixedResults">
+      <created>1559446221587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559446221587</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="40" width="1400" height="757" extended-state="0" />
+    <frame x="90" y="30" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
@@ -236,7 +251,9 @@
     <MESSAGE value="Finished NameThatCelebrity" />
     <MESSAGE value="Created ArithmeticAssignment" />
     <MESSAGE value="Finished ArithmeticAssignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished ArithmeticAssignment" />
+    <MESSAGE value="Created MixedResults" />
+    <MESSAGE value="Finished MixedResults" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished MixedResults" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java">
@@ -253,6 +270,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -260,17 +291,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="319">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
         </state>
       </provider>
     </entry>

@@ -16,6 +16,7 @@ public class Main {
             System.out.println("2 ) " + NameThatCelebrity.identity);
             System.out.println("3 ) " + ArithmeticAssignment.identity);
             System.out.println("4 ) " + MixedResults.identity);
+            System.out.println("5 ) " + ComputeThis.identity);
 
 
             System.out.print("0 ) Exit\n\n[#]> ");
@@ -48,6 +49,12 @@ public class Main {
                     // Mixed Results
                     System.out.println(MixedResults.identity);
                     MixedResults.main();
+                    break;
+                }
+                case 4: {
+                    // Compute This
+                    System.out.println(ComputeThis.identity);
+                    ComputeThis.main();
                     break;
                 }
                 default: {
