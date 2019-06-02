@@ -17,7 +17,8 @@ public class Main {
             System.out.println("3 ) " + ArithmeticAssignment.identity);
             System.out.println("4 ) " + MixedResults.identity);
             System.out.println("5 ) " + ComputeThis.identity);
-
+            System.out.println("6 ) " + GoingInCircles.identity);
+            System.out.println("7 ) " + WhatsMyName.identity);
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -55,6 +56,18 @@ public class Main {
                     // Compute This
                     System.out.println(ComputeThis.identity);
                     ComputeThis.main();
+                    break;
+                }
+                case 6: {
+                    // Going In Circles
+                    System.out.println(GoingInCircles.identity);
+                    GoingInCircles.main();
+                    break;
+                }
+                case 7: {
+                    // What's My Name?
+                    System.out.println(WhatsMyName.identity);
+                    WhatsMyName.main();
                     break;
                 }
                 default: {

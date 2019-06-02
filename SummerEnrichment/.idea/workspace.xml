@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7d6072a-54e5-4b9a-8a2d-6f31c664fde7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/treyajenkins/GoingInCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/treyajenkins/WhatsMyName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/treyajenkins/Main.java" afterDir="false" />
     </list>
@@ -19,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+            <state relative-caret-position="232">
+              <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -41,7 +42,25 @@
         <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+              <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/GoingInCircles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/WhatsMyName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -66,13 +85,15 @@
         <option value="$PROJECT_DIR$/src/com/treyajenkins/ArithmeticAssignment.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/MixedResults.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java" />
+        <option value="$PROJECT_DIR$/src/com/treyajenkins/GoingInCircles.java" />
         <option value="$PROJECT_DIR$/src/com/treyajenkins/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/treyajenkins/WhatsMyName.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
-    <option name="y" value="30" />
+    <option name="x" value="34" />
+    <option name="y" value="102" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -209,14 +230,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559446221587</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Created ComputeThis">
+      <created>1559446371408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559446371408</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finished ComputeThis">
+      <created>1559446839213</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559446839213</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="30" width="1400" height="757" extended-state="0" />
+    <frame x="34" y="102" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,7 +261,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32932332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31428573" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31428573" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -253,7 +288,9 @@
     <MESSAGE value="Finished ArithmeticAssignment" />
     <MESSAGE value="Created MixedResults" />
     <MESSAGE value="Finished MixedResults" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished MixedResults" />
+    <MESSAGE value="Created ComputeThis" />
+    <MESSAGE value="Finished ComputeThis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished ComputeThis" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/NameThatCelebrity.java">
@@ -280,7 +317,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/ComputeThis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -293,8 +330,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        <state relative-caret-position="232">
+          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/GoingInCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/treyajenkins/WhatsMyName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
         </state>
       </provider>
     </entry>
