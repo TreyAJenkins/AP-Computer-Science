@@ -22,6 +22,7 @@ public class Main {
             System.out.println("8 ) " + EvenOrOdd.identity);
             System.out.println("9 ) " + Planets.identity);
             System.out.println("10) " + NameReversal.identity);
+            System.out.println("11) " + SquaredZero.identity);
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -89,6 +90,12 @@ public class Main {
                     // Name Reversal
                     System.out.println(NameReversal.identity);
                     NameReversal.main();
+                    break;
+                }
+                case 11: {
+                    // Squared Zero
+                    System.out.println(SquaredZero.identity);
+                    SquaredZero.main();
                     break;
                 }
                 default: {
