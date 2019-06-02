@@ -21,6 +21,7 @@ public class Main {
             System.out.println("7 ) " + WhatsMyName.identity);
             System.out.println("8 ) " + EvenOrOdd.identity);
             System.out.println("9 ) " + Planets.identity);
+            System.out.println("10) " + NameReversal.identity);
 
             System.out.print("0 ) Exit\n\n[#]> ");
 
@@ -82,6 +83,12 @@ public class Main {
                     // Weight on Other Planets
                     System.out.println(Planets.identity);
                     Planets.main();
+                    break;
+                }
+                case 10: {
+                    // Name Reversal
+                    System.out.println(NameReversal.identity);
+                    NameReversal.main();
                     break;
                 }
                 default: {
