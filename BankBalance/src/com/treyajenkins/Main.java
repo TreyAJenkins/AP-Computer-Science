@@ -1,3 +1,5 @@
+// Trey Jenkins 8/26/2019
+
 package com.treyajenkins;
 
 import java.text.DecimalFormat;
