@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EvenOrOdd {
     public static String identity = "Lesson: if statement | Project: Even Or Odd";
 
-    public static void main() {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter an integer: ");
         int i = input.nextInt();

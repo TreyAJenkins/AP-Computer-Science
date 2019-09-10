@@ -3,7 +3,7 @@ package com.treyajenkins;
 public class MixedResults {
     public static String identity = "Lesson: Mixed Data Types, Casting, and Constants | Project: Mixed Results";
 
-    public static void main() {
+    public static void main(String[] args) {
         double d1 = 37.9;
         double d2 = 1004.128;
         int i1 = 12;

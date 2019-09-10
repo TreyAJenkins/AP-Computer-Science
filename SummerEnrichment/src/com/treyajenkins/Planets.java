@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Planets {
     public static String identity = "Lesson: switch statement and char | Project: Weight on Other Planets";
 
-    public static void main() {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("What is your weight on Earth? ");
         float weight = input.nextFloat();

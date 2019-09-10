@@ -3,7 +3,7 @@ package com.treyajenkins;
 public class NameThatCelebrity {
     public static String identity = "Lesson: Simple String Operations | Project: Name That Celebrity";
 
-    public static void main() {
+    public static void main(String[] args) {
         String s1 = "Allan Alda";
         String s2 = "John Wayne";
         String s3 = "Gregory Peck";

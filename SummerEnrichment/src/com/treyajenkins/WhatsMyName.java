@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WhatsMyName {
     public static String identity = "Lesson: Input from the Keyboard | Project: What's My Name?";
 
-    public static void main() {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("What is your first name? ");
         String first = input.nextLine();
