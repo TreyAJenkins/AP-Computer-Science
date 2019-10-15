@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dfb98aa-dda0-4c51-92c2-550bd4fdd890" name="Default Changelist" comment="Modified file structure">
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Homework/BPSept10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Homework/JSSpg107+110.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Homework/JSSpg107+111.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Homework/JSSpg109.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Homework/JSSpg44.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/AverageCorrect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/out/production/AverageCorrect/AverageCorrect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageCorrect/src/AverageCorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/AverageInt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/out/production/AverageInt/AverageInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/AverageInt/src/AverageInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/BankBalance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/out/production/BankBalance/com/treyajenkins/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BankBalance/src/com/treyajenkins/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/BoxedName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/out/production/BoxedName/com/treyajenkins/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/BoxedName/src/com/treyajenkins/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/Chapter2Review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/out/production/Chapter2Review/review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/Chapter2Review/src/review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/DMYStringManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/out/production/DMYStringManipulation/ConvertToDMY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/out/production/DMYStringManipulation/StringManipulation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/src/ConvertToDMY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/DMYStringManipulation/src/StringManipulation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/EscapeSequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/out/production/EscapeSequences/com/treyajenkins/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/EscapeSequences/src/com/treyajenkins/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/PhoneNumber-Sphere.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/out/production/PhoneNumber-Sphere/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/out/production/PhoneNumber-Sphere/Sphere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/src/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/PhoneNumber-Sphere/src/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/StringManipulation2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/out/production/StringManipulation2/StringManipulation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/StringManipulation2/src/StringManipulation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/artifacts/SummerEnrichment_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/SummerEnrichment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/artifacts/SummerEnrichment_jar/SummerEnrichment.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/META-INF/SummerEnrichment.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/ArithmeticAssignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/ComputeThis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/EvenOrOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/GoingInCircles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/MixedResults.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/NameReversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/NameThatCelebrity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/Planets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/SquaredZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/out/production/SummerEnrichment/com/treyajenkins/WhatsMyName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/ArithmeticAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/ComputeThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/GoingInCircles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/MixedResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/NameReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/NameThatCelebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/Planets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/SquaredZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/src/com/treyajenkins/WhatsMyName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/summerenrichment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Chapter 2 - Objects and Primitive Data/Java/SummerEnrichment/summerenrichment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework/JSS-Sept24.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/CompareIntCharStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/out/production/CompareIntCharStrings/CompareChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/out/production/CompareIntCharStrings/CompareInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/out/production/CompareIntCharStrings/CompareStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/src/CompareChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/src/CompareInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompareIntCharStrings/src/CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/DateValidation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/out/production/DateValidation/DateValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateValidation/src/DateValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/U3 PA3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/out/production/U3 PA3/SwitchWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/out/production/U3 PA3/Wages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/src/SwitchWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA3/src/Wages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/U3 PA4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/out/production/U3 PA4/CountDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/out/production/U3 PA4/SumEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/src/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U3 PA4/src/SumEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U3 PA5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Asterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AverageCorrect/src/AverageCorrect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AverageInt/src/AverageInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/BankBalance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BankBalance/src/com/treyajenkins/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BoxedName/src/com/treyajenkins/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter2Review/src/review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CompareIntCharStrings/src/CompareChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CompareIntCharStrings/src/CompareInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CompareIntCharStrings/src/CompareStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/DMYStringManipulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/src/ConvertToDMY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DMYStringManipulation/src/StringManipulation1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DateValidation/src/DateValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/EscapeSequences.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../EscapeSequences/src/com/treyajenkins/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PhoneNumber-Sphere/src/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PhoneNumber-Sphere/src/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StringManipulation2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StringManipulation2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StringManipulation2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StringManipulation2/StringManipulation2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../StringManipulation2/src/StringManipulation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/artifacts/SummerEnrichment_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/SummerEnrichment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/ArithmeticAssignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/ComputeThis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/GoingInCircles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/MixedResults.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/NameReversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/NameThatCelebrity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/Planets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/SquaredZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/src/com/treyajenkins/WhatsMyName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/summerenrichment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SummerEnrichment/summerenrichment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../U3 PA3/src/SwitchWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../U3 PA3/src/Wages.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Asterisks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-23">
+              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountVowels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="785">
+              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Asterisks.java" />
+        <option value="$PROJECT_DIR$/src/CountVowels.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="30" />
+    <option name="width" value="1400" />
+    <option name="height" value="650" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="U3 PA5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3 PA5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U3 PA5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U3 PA5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CountVowels">
+    <configuration name="Asterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Asterisks" />
+      <module name="U3 PA5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountVowels" />
+      <module name="U3 PA5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountVowels" />
+        <item itemvalue="Application.Asterisks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dfb98aa-dda0-4c51-92c2-550bd4fdd890" name="Default Changelist" comment="" />
+      <created>1571125964544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571125964544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="30" width="1400" height="650" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3297491" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31899643" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified file structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified file structure" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Asterisks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
