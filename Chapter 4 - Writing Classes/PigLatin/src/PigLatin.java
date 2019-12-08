@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class PigLatin {
 
     // Set to true to test with the test cases in the project document
-    static final boolean TEST_TRANSLATE = true;
+    static final boolean TEST_TRANSLATE = false;
 
     /**
      * Checks to see if a char is a vowel
@@ -100,13 +100,16 @@ public class PigLatin {
         word = base + append;
         word = movePunctuation(word);
 
-        if (capitalize)
+        if (capitalize) // capitalized the first character
             word = word.substring(0, 1).toUpperCase() + word.substring(1);
 
         return word;
     }
 
-
+    /**
+     * The main method
+     * @param args command-line arguments
+     */
     public static void main(String[] args) {
         if (TEST_TRANSLATE) { // Testing with the test cases in the project doc
             System.out.println(translate("food"));
