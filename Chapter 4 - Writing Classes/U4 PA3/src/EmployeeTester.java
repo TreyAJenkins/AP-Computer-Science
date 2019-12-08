@@ -14,5 +14,6 @@ public class EmployeeTester {
         System.out.println(person.getName());
         System.out.println(person.getSalary());
         System.out.println(person);
+
     }
 }
