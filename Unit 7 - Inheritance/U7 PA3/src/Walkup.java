@@ -16,6 +16,6 @@ public class Walkup extends Ticket {
      */
     @Override
     public double calculatePrice() {
-        return 50;
+        return getPrice();
     }
 }

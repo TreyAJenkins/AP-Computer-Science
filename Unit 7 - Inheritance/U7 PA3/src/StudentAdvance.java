@@ -18,4 +18,10 @@ public class StudentAdvance extends Advance {
     public double calculatePrice() {
         return super.calculatePrice() / 2;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + "\n*Student ID required to purchase*";
+
+    }
 }
