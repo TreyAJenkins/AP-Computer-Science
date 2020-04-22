@@ -1,0 +1,19 @@
+9
+Baggins Frodo 4 11
+100 100 90 93 86 70
+Gamgee Samwise 7 10
+77 83 85 99 90 100 75
+Grey Gandalf 2 10
+85 86 94 87 87 100 100 95
+Thranduil Legolas 16 12
+84 58 75 68 91
+Gloin Gimli 77 11
+95 90 90 85 95 75 100
+Isildur Aragorn 10 12
+89 98 78 87 68 86 86
+Denethor Boromir 22 12
+85 100 46 68 78 54
+Brandybuck Meriadoc 31 12
+99 96 91 83 97 100 100 100
+Took Peregrin 17 9
+77 23 94 87 95 67 99 91
